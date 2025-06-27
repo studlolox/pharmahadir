@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "pharmahadir-58cf1"
-  }
+    "default": "pharmahadir-rsvp",
+    "rsvp": "pharmahadir-rsvp"
+  },
+  "targets": {},
+  "etags": {}
 }
